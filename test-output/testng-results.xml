@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-04T16:20:46 IST" name="Default suite" finished-at="2023-05-04T16:22:05 IST" duration-ms="78967">
+    <groups>
+    </groups>
+    <test started-at="2023-05-04T16:20:46 IST" name="Default test" finished-at="2023-05-04T16:22:05 IST" duration-ms="78967">
+      <class name="com.ab.testLayer.AddToCartFunctionalityTest">
+        <test-method is-config="true" signature="launcdhApplication()[pri:0, instance:com.ab.testLayer.AddToCartFunctionalityTest@9597028]" started-at="2023-05-04T16:20:46 IST" name="launcdhApplication" finished-at="2023-05-04T16:21:03 IST" duration-ms="17090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcdhApplication -->
+        <test-method signature="loginWithValidCredentials()[pri:0, instance:com.ab.testLayer.AddToCartFunctionalityTest@9597028]" started-at="2023-05-04T16:21:03 IST" name="loginWithValidCredentials" finished-at="2023-05-04T16:22:05 IST" duration-ms="61699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.ab.testLayer.AddToCartFunctionalityTest@9597028]" started-at="2023-05-04T16:22:05 IST" name="TearDown" finished-at="2023-05-04T16:22:05 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.ab.testLayer.AddToCartFunctionalityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

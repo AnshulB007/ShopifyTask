@@ -1,0 +1,60 @@
+2023-04-08 09:47:32,531 [main] INFO I am a logger - loginWithValidCredentials-> Test passed
+2023-04-08 09:47:45,464 [main] INFO I am a logger - Test Execution Started
+2023-04-08 09:47:46,251 [main] INFO I am a logger - loginWithInvalidCredentials-> Test passed
+2023-04-08 09:48:02,169 [main] INFO I am a logger - Test Execution Started
+2023-04-08 09:48:03,043 [main] INFO I am a logger - loginWithValidCredentials-> Test passed
+2023-04-08 09:48:12,776 [main] INFO I am a logger - Test Execution Started
+2023-04-08 09:48:15,105 [main] INFO I am a logger - logOutTest-> Test passed
+2023-04-08 09:48:25,513 [main] INFO I am a logger - Test Execution Started
+2023-04-08 09:48:29,048 [main] INFO I am a logger - checkOutTest-> Test passed
+2023-04-08 09:48:31,074 [main] INFO I am a logger - Result locked in the report
+2023-04-13 13:47:02,785 [main] INFO I am a logger - loginWithValidCredentials-> Test skipped
+2023-04-13 13:47:18,757 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:47:18,930 [main] INFO I am a logger - loginWithInvalidCredentials-> Test skipped
+2023-04-13 13:47:18,962 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:47:18,975 [main] INFO I am a logger - loginWithValidCredentials-> Test skipped
+2023-04-13 13:48:06,458 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:48:06,479 [main] INFO I am a logger - logOutTest-> Test skipped
+2023-04-13 13:48:54,431 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:48:54,443 [main] INFO I am a logger - checkOutTest-> Test skipped
+2023-04-13 13:49:04,476 [main] INFO I am a logger - Result locked in the report
+2023-04-13 13:51:24,176 [main] INFO I am a logger - loginWithValidCredentials-> Test skipped
+2023-04-13 13:51:29,923 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:51:29,943 [main] INFO I am a logger - loginWithInvalidCredentials-> Test skipped
+2023-04-13 13:51:30,013 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:51:30,022 [main] INFO I am a logger - loginWithValidCredentials-> Test skipped
+2023-04-13 13:51:40,894 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:51:40,914 [main] INFO I am a logger - logOutTest-> Test skipped
+2023-04-13 13:51:53,601 [main] INFO I am a logger - Test Execution Started
+2023-04-13 13:51:53,606 [main] INFO I am a logger - checkOutTest-> Test skipped
+2023-04-13 13:51:56,269 [main] INFO I am a logger - Result locked in the report
+2023-04-13 14:05:54,517 [main] INFO I am a logger - loginWithValidCredentials-> Test skipped
+2023-04-13 14:05:59,585 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:05:59,593 [main] INFO I am a logger - loginWithInvalidCredentials-> Test skipped
+2023-04-13 14:05:59,611 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:05:59,618 [main] INFO I am a logger - loginWithValidCredentials-> Test skipped
+2023-04-13 14:06:10,520 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:06:10,683 [main] INFO I am a logger - logOutTest-> Test skipped
+2023-04-13 14:06:20,884 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:06:20,901 [main] INFO I am a logger - checkOutTest-> Test skipped
+2023-04-13 14:06:26,081 [main] INFO I am a logger - Result locked in the report
+2023-04-13 14:07:40,035 [main] INFO I am a logger - loginWithValidCredentials-> Test passed
+2023-04-13 14:07:55,928 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:07:56,780 [main] INFO I am a logger - loginWithInvalidCredentials-> Test passed
+2023-04-13 14:08:10,547 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:08:11,379 [main] INFO I am a logger - loginWithValidCredentials-> Test passed
+2023-04-13 14:08:23,416 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:08:24,942 [main] INFO I am a logger - test Failed ..Took ScreenShot
+2023-04-13 14:08:38,098 [main] INFO I am a logger - Test Execution Started
+2023-04-13 14:08:41,567 [main] INFO I am a logger - checkOutTest-> Test passed
+2023-04-13 14:08:44,856 [main] INFO I am a logger - Result locked in the report
+2023-04-17 09:54:13,508 [main] INFO I am a logger - loginWithValidCredentials-> Test passed
+2023-04-17 09:54:27,307 [main] INFO I am a logger - Test Execution Started
+2023-04-17 09:54:28,393 [main] INFO I am a logger - loginWithInvalidCredentials-> Test passed
+2023-04-17 09:54:40,371 [main] INFO I am a logger - Test Execution Started
+2023-04-17 09:54:41,512 [main] INFO I am a logger - loginWithValidCredentials-> Test passed
+2023-04-17 09:54:54,287 [main] INFO I am a logger - Test Execution Started
+2023-04-17 09:54:55,976 [main] INFO I am a logger - test Failed ..Took ScreenShot
+2023-04-17 09:55:09,244 [main] INFO I am a logger - Test Execution Started
+2023-04-17 09:55:13,180 [main] INFO I am a logger - checkOutTest-> Test passed
+2023-04-17 09:55:17,295 [main] INFO I am a logger - Result locked in the report
